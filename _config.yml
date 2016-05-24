@@ -1,0 +1,14 @@
+layout_spectrum: 0.9040569209028035
+typography_spectrum: 0.19246951187960804
+color:
+  brandStrength: 0.28641426051035523
+  lightness: 0.9796559484675527
+  saturation: 0.07408731197938323
+  rhythmicContrast: 0.9575397679582238
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Farraday Design
